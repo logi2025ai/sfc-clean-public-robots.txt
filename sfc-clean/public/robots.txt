@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carriers-sfc.com/sitemap.xml
